@@ -1,0 +1,6 @@
+n this project, I analyzed stroke patient data to predict the likelihood of stroke occurrence using various machine learning algorithms.
+The dataset included critical features such as age, hypertension, heart disease, and lifestyle factors.
+I preprocessed the data to handle missing values and performed exploratory data analysis (EDA) to identify patterns and correlations.
+
+Multiple algorithms were implemented, including Logistic Regression, Decision Trees, Random Forest, and , to build predictive models. 
+The performance of each model was evaluated based on accuracy, precision, recall, and F1 score. This beginner-level project provided valuable insights into feature selection, model evaluation, and the importance of data preprocessing in building effective machine learning models for medical diagnosis.
